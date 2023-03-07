@@ -4,7 +4,7 @@ import { AiOutlineShoppingCart } from 'react-icons/ai'
 const CartWidget = () => {
   return (
     <Flex>
-      <Icon as={AiOutlineShoppingCart} boxSize={8} mr={2} />
+      <Icon as={AiOutlineShoppingCart} boxSize={0} mr={2} />
       <Badge
         textAlign={'center'}
         pt='1.25'
