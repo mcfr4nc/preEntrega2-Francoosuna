@@ -17,7 +17,7 @@ const CartWidget = () => {
         fontSize='0.7em'
         bg='rgba(106, 44, 112)'
       >
-        8
+        0
       </Badge>
     </Flex>
   )
